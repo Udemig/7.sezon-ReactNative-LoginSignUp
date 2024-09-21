@@ -1,6 +1,6 @@
 # Framework
 
-^^ Navigation
+ Navigation
 
 - npm install @react-navigation/native
 
@@ -8,7 +8,7 @@
 
 - npm install @react-navigation/native-stack
 
-^^ Styling
+ Styling
 
 - npm install nativewind
 
